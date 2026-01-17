@@ -1,0 +1,6 @@
+.markdown-body img {
+  display: block;
+  margin: 0 auto;
+  max-width: 50%; /* 限制图片最大宽度为正文的 80% */
+  height: auto;
+}
