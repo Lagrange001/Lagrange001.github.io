@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="850" viewBox="0 0 1800 850">
+<defs><radialGradient id="bg" cx="78%" cy="42%" r="77%"><stop stop-color="#26434d"/><stop offset=".57" stop-color="#162c3b"/><stop offset="1" stop-color="#101f2e"/></radialGradient><pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse"><path d="M64 0H0V64" fill="none" stroke="#a0b9bd" stroke-opacity=".07"/></pattern></defs>
+<path fill="url(#bg)" d="M0 0h1800v850H0z"/><path fill="url(#grid)" d="M0 0h1800v850H0z"/>
+<g transform="translate(1300 400)" fill="none" stroke="#d2b784"><circle r="275" stroke-opacity=".14"/><circle r="204" stroke-opacity=".28"/><circle r="125" stroke-opacity=".08"/><ellipse rx="265" ry="100" transform="rotate(-35)" stroke-opacity=".64"/><ellipse rx="265" ry="100" transform="rotate(48)" stroke="#75aaa7" stroke-opacity=".43"/><path d="M-315 0H315M0-315V315" stroke-opacity=".13" stroke-dasharray="3 9"/><circle cx="215" cy="-155" r="7" fill="#dfc593" stroke="none"/><circle cx="-179" cy="-164" r="4" fill="#7ba9a9" stroke="none"/><circle cx="0" cy="204" r="5" fill="#dfc593" stroke="none"/></g>
+<g fill="#d3dddf" opacity=".43"><circle cx="956" cy="193" r="1.6"/><circle cx="1045" cy="666" r="2"/><circle cx="1594" cy="175" r="2"/><circle cx="1706" cy="572" r="1.5"/><circle cx="880" cy="460" r="1.5"/></g>
+</svg>
